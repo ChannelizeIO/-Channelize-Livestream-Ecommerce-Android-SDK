@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestAudienceSdk</string>
+    <string name="choose_theme_text">Choose theme:</string>
+    <string name="submit">Submit</string>
+    <string name="event_finished">Event Finished</string>
+    <string name="event_not_available">The event you are looking for is not available. Please check back later.</string>
+    <string name="please_enter_email_and_password_to_login">Please enter email and password to login</string>
+</resources>
