@@ -44,8 +44,8 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:2.1.1'
 
     //Livestream Shopping SDK
-    implementation 'com.github.ChannelizeIO.Channelize-Livestream-Ecommerce-Android-SDK-Private:livebroadcasterui:1.3.1'
-    implementation 'com.github.ChannelizeIO.Channelize-Livestream-Ecommerce-Android-SDK-Private:livebroadcasterapi:1.3.1'
+    implementation 'com.github.ChannelizeIO.Channelize-Livestream-Ecommerce-Android-SDK-Private:livebroadcasterui:1.3.4'
+    implementation 'com.github.ChannelizeIO.Channelize-Livestream-Ecommerce-Android-SDK-Private:livebroadcasterapi:1.3.4'
 
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'

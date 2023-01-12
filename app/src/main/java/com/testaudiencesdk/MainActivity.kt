@@ -85,7 +85,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun navigateHomeActivity() {
-        val intent = Intent(this, BroadcastListActivity::class.java)
+        val intent = Intent(this, ShoppingShowsActivity::class.java)
         startActivity(intent)
         finishAffinity()
     }
