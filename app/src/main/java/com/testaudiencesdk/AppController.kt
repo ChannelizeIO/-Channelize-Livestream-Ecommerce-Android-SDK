@@ -36,7 +36,7 @@ class AppController : Application(),IProductInfo{
     private fun initializeLiveBroadcast() {
         val liveBroadcasterConfig = LiveBroadcastConfig.Builder(this)
             .setAccessToken(LiveBroadcasterPreferences.getAccessToken(this)?:"")
-            .setPublicKey("") //Add public key
+            .setPublicKey("vBFfEYzWxwh62DMa") //Add public key
             .setLoggingEnabled(true)
             .build()
 
